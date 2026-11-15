@@ -82,5 +82,3 @@ bd095ccdb3a7c5eced3d3c290ed2c91ecffb47bb21d24ea9cea569c7e6d4f878  tests/test_sta
 ## Uso de IA
 
 O projeto partiu do código-base fornecido no desafio. A IA foi usada como apoio para interpretar o enunciado, corrigir os erros do CLI e ajustar a formatação do código alterado. Nesta versão, a IA também acrescentou testes, executou as validações e preparou a documentação.
-
-A [declaração](uso-de-ia/declaracao.md) descreve a participação em cada etapa. O [registro da sessão](uso-de-ia/sessao.md) reúne o prompt, as interações e as evidências de validação. O [LogGPT fornecido](uso-de-ia/logGPT.md) e a [conversa compartilhada do Gemini](uso-de-ia/sessao-gemini.md) complementam esse registro. O histórico completo da etapa de preparação do prompt ainda precisa ser acrescentado.
